@@ -1,0 +1,25 @@
+if making any change then first please clean app using below mvn command
+mvn clean
+once clean then run below mvn command
+mvn tomcat7:run
+
+Go in browser and use url
+if mapping using web.xml
+http://localhost:8080/login
+
+if using annotation
+http://localhost:8080/
+
+
+
+
+HTTP standard Methods
+REST standard - Representetion State Transfer
+GET
+ex. www.google.com
+    https://www.flipkart.com/electronic/mobiles
+    https://www.infosys.com/employee/1
+
+
+POST
+    www.gmail.com/signup
